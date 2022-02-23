@@ -1,0 +1,40 @@
+1 = /*Obs.: Estes programas terão um único método(função). O método main(). O comando de saída de dados é o System.out.print();
+
+Faça um programa em Java, que calcule e mostre o valor do aumento e o novo salário de um funcionário, sabendo-se que o  salário do funcionário é  
+2500 e o percentual de aumento foi de 10%.
+aumento = salario * percentual/100
+novoSalario = salario + aumento */
+
+
+2 = /*Faça um programa em Java que com base no salário base de 1500 de um funcionário, 
+calcule e mostre o salário a receber, sabendo-se que esse funcionário tem gratificação de 5% sobre o salário base e paga imposto de 7% sobre o salário-base.
+gratificacao = salarioBase * 5/100
+imposto = sal * 7/100
+salalarioReceber =  salarioBase + gratificacao – imposto*/
+
+
+3 = /* Faça um programa em Java que calcule e mostre o valor do rendimento e o valor total depois do rendimento, 
+sabendo-se que o valor de depósito foi de 500 e o valor da taxa de juros foi de 3%.
+rendimento = deposito * taxaJuros/100
+valorTotal = deposito + rendimento*/
+
+
+4 = /* O custo ao consumidor de um carro novo é a soma do preço de fábrica com o percentual de lucro do distribuidor e dos impostos aplicados ao preço de fábrica.
+ Faça um programa em Java que mostre:
+O valor correspondente ao lucro do distribuidor
+(lucroDistribuidor = precoFabrica * percentualDistribuidor /100)
+
+
+O valor correspondente aos impostos
+(valorImposto =  precoFabrica * percentualImposto / 100)
+
+
+O preço final do veículo.
+(precoFinal = precoFabrica + lucroDistribuidor - valorImposto)
+
+
+Sabe-se que:
+
+O preço de fábrica do automóvel é: 35000
+OPercentual do Lucro do Distribuidor é de : 25%
+O percentual de imposto é de: 15% */
